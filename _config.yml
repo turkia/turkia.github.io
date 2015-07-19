@@ -3,7 +3,7 @@ title: Mika's Clojure
 email: mika.turkia at helsinki.fi
 description: Clojure-related writings. 
 baseurl: "/clj"
-url: "http://localhost"
+url: "http://turkia.github.io"
 github_username: turkia
 
 # Build settings
