@@ -2,7 +2,7 @@
 title: Mika's Clojure
 email: mika.turkia at helsinki.fi
 description: Clojure-related writings. 
-baseurl: "/"
+baseurl: ""
 url: "http://turkia.github.io"
 github_username: turkia
 
