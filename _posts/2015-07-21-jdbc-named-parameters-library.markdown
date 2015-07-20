@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JDBC named parameters query library"
-date:   2015-07-21 00:00:00
+date:   2015-07-21 01:00:00
 categories: clojure jdbc spring 
 ---
 
