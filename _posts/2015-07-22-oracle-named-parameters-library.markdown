@@ -5,7 +5,7 @@ date:   2015-07-21 09:00:00
 categories: clojure oracle spring 
 ---
 
-JDBC does not support named parameters in SQL queries. However, support for them has been implemented in [Spring framework][spring]. This library implements a simple way to use this feature from Clojure with Oracle database. Only queries are supported. 
+JDBC does not support named parameters in SQL queries. However, support for them has been implemented in [Spring framework][spring]. This library implements a simple way to use this feature from Clojure with Oracle database. Only queries are supported. The library can be found [here][github].
 
 {% highlight clojure %}
 (ns oracle-namedparam-test.core
@@ -20,3 +20,4 @@ JDBC does not support named parameters in SQL queries. However, support for them
 Plain JDBC version might be implemented later. 
 
 [spring]:      http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html
+[github]:      https://github.com/turkia/clj-oracle-namedparameters
