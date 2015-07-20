@@ -17,7 +17,5 @@ JDBC does not support named parameters in SQL queries. However, support for them
           {:min_rows 100})
 {% endhighlight %}
 
-Plain JDBC version might be implemented later. 
-
 [spring]:      http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html
 [github]:      https://github.com/turkia/clj-oracle-namedparameters
